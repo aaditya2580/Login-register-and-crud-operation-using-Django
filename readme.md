@@ -23,6 +23,10 @@ In the command prompt, execute the following command: pip install django. This w
 
 After the installation has completed, you can verify your Django installation by executing django-admin --version in the command prompt.
 
+the Application can do following task.
+Register user
+Log in user
+Perform CRUD Operations
 
 Step for setup
  1.  cd File
